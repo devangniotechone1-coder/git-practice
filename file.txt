@@ -1,1 +1,2 @@
 Hello Git
+This is a new line after creating a feature branch
